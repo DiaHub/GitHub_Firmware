@@ -1,1 +1,1 @@
-0.7.23-add-wifi-cancel
+0.7.26-wifi-autosave
